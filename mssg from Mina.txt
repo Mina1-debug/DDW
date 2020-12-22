@@ -1,0 +1,20 @@
+/**********************/
+1. The Html validation is for the
+index about and blog page but you can replicate it for
+other pages
+
+2. Css validation one
+
+3. The mobile checker is one but replicate it for all other pages
+
+4. Accessibility is for the index, about, blog and component
+
+report 
+1. Most tags where not closed in the html pages which poped up
+errors.
+Solution
+The tags where closed
+
+2. ids where used insead of classes ehich gave us errors
+solution
+The class selectors was swapped with the id selector
